@@ -12,3 +12,5 @@ echo $ergebnis;
 ## Credits
 
 The ArrayList class in PHP was created by Tim Anlauf <schranzistorradio@gmx.de>
+
+http://www.phpclasses.org/package/1169-PHP-Class-to-handle-lists.html#information
